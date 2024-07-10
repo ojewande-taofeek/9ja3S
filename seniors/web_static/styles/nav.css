@@ -1,0 +1,19 @@
+/*Styles the navigation pane */
+nav  ul {
+    display: flex;
+    background-color: yellow;
+    font-weight: bold;
+    color: white;
+    list-style-type: none;
+    margin: 0px;
+}
+
+nav li {
+    all: inherit;
+    padding: 1em;
+    width: 80%;
+}
+
+.nav_pane {
+    text-decoration: none;
+}

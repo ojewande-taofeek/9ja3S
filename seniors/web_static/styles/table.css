@@ -1,0 +1,55 @@
+/* styles for the table on the subject page */
+
+table {
+    table-layout: fixed;
+    width: 80%;
+    height: 20%;
+    border-collapse: collapse;
+    border: 3px solid red;
+    margin-top: 30px;
+}
+
+thead th:nth-child(1) {
+    width: 10%;
+}
+
+thead th:nth-child(2) {
+    width: 10%;
+}
+
+thead th:nth-child(3) {
+    width: 60%;
+}
+
+th,
+td {
+    padding: 20px;
+    border: 2px solid black;
+}
+
+caption {
+    font-weight: bold;
+    color:seagreen;
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+html {
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+}
+
+thead th {
+  font-family: "Rock Salt", cursive;
+}
+
+th {
+  letter-spacing: 2px;
+}
+
+td {
+  letter-spacing: 1px;
+}
+
+tbody td {
+  text-align: center;
+}
