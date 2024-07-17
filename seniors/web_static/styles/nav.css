@@ -6,14 +6,11 @@ nav  ul {
     color: white;
     list-style-type: none;
     margin: 0px;
+    text-decoration: none;
 }
 
 nav li {
     all: inherit;
     padding: 1em;
     width: 80%;
-}
-
-.nav_pane {
-    text-decoration: none;
 }
