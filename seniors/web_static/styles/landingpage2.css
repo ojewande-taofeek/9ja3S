@@ -1,0 +1,97 @@
+/* Styles the landing page */
+
+header ul {
+    height: 10%;
+    display: flex;
+    margin: 0px;
+    font-size: 20px;
+}
+
+header li {
+    padding: 0.5em;
+    width: 100%;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none; 
+}
+
+body main {
+    height: 20em;
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    /*background-image: url(../images/landing1.png);*/
+    background-color: rgb(81, 81, 237);
+}
+
+main h3 {
+    margin:auto;
+    font-size: 250px;
+    color: white;
+    text-size-adjust: 100px;
+}
+main p {
+    margin-top: 0px;
+    color: white;
+}
+
+div h3 {
+    margin-top: 5px;
+    color: black;
+    font-size: 35px;
+}
+
+div .images {
+    display: flex;
+    padding: 1em;
+}
+
+.images img {
+    height: 10em;
+    width: 20em;
+}
+
+.images h4 {
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+.images p {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+section {
+    height: 1500%;
+    width: 100%;
+    background-color: rgb(189, 185, 181);
+}
+
+section h3 {
+    color: black;
+    font-size: 30px;
+
+}
+section p {
+    color: black;
+    text-align: left;
+}
+
+section ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+section li {
+    padding: 1em;
+    align-items: center;
+}
+
+section a {
+    text-decoration: none;
+}
