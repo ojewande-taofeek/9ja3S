@@ -1,7 +1,7 @@
 /*Styles the navigation pane */
 nav  ul {
     display: flex;
-    background-color: yellow;
+    background-color: rgba(255, 210, 112, 0.971);
     font-weight: bold;
     color: white;
     list-style-type: none;

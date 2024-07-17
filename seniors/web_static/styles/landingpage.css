@@ -1,0 +1,15 @@
+/* Styles the landing page background image */
+
+body {
+    /*background-image: url(../images/landing1.png);
+    background-repeat: repeat;*/
+    background-color: rgba(252, 201, 9154, 0.971);
+}
+
+main h2 {
+    text-align: center;
+    color:rgb(116, 165, 42);
+    text-rendering: auto;
+    font-size: 100px;
+    margin-top: 10px;
+}
