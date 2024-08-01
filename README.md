@@ -7,6 +7,8 @@
   Ojewande Taofeek A. [Github](https://github.com/ojewande-taofeek)
 
 ## Technologies
- - Python
  - HTML
  - CSS
+ - GitHub
+
+
