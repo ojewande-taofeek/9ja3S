@@ -1,0 +1,26 @@
+/* Styles for Subject Page */
+
+/*main {
+    margin-top: 60px;
+}*/
+
+main h2 {
+    color: black;
+    width: 100%;
+    text-align:justify;
+    font-size: 30px;
+    color: blue;
+}
+h3 {
+    background-color: aliceblue;
+    color: blue;
+}
+
+h4 p {
+    margin-top: 0px;
+}
+
+h3 ul li a {
+    color: red;
+    text-decoration: none;
+}
